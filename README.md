@@ -33,7 +33,7 @@ The weekly fare revenue by city type again shows the dominance of urban in fare 
 
 At least during the first quarter of 2019, the fare revenue remains releatively constant. This leads to the following question:
 
-   Is revenue not growing because the market has been saturated, not enough drivers, or customers are not aware of the service? Or a combination of all three factors?
+*Is revenue not growing because the market has been saturated, not enough drivers, or customers are not aware of the service? Or a combination of all three factors?*
 
 Further data is needed to answer the question.
 
